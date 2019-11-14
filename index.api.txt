@@ -1,0 +1,1 @@
+https://community-open-weather-map.p.rapidapi.com/weather?q=miami,us
